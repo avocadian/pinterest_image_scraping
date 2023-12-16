@@ -30,4 +30,4 @@ Image is being saved...
 Image saved successfully!
 ```
 #### results
-![result image]("https://github.com/2-l0/pinterest_image_scraping/blob/main/results.png?raw=true")
+![result image](https://github.com/2-l0/pinterest_image_scraping/blob/main/results.png?raw=true)

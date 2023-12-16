@@ -1,8 +1,7 @@
 # pinterest_image_scraping
 This is a tool to scrape images from pinterest
 
-![pinterest logo](https://github.com/2-l0/pinterest_image_scraping/blob/main/Pinterest-logo.png?raw=true)
-<img src="https://github.com/2-l0/pinterest_image_scraping/blob/main/Pinterest-logo.png?raw=true" width="320px">
+<img src="https://github.com/2-l0/pinterest_image_scraping/blob/main/Pinterest-logo.png?raw=true" width="220px">
 
 # Instructions
 ## Installation
